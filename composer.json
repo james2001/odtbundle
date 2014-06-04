@@ -1,0 +1,25 @@
+{
+    "name": "james2001/odtbundle",
+    "description": "This is a Symfony2 Bundle, thanks to the Odtphp library",
+    "authors": [
+        {
+            "name": "Rathgeber Stephane",
+            "email": "@gmail.com"
+        }
+    ],
+    "keywords": ["odt", "symfony2", "bundle"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "~2.1",
+        "james2001/odtphp": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/PHPUnit": "3.7.*",
+        "symfony/class-loader": "~2.1",
+        "symfony/validator": "~2.1",
+        "symfony/browser-kit": "~2.1",
+        "sensio/framework-extra-bundle": "~2.1"
+    },
+    "target-dir": "James2001/OdtBundle"
+}
