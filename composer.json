@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "Rathgeber Stephane",
-            "email": "@gmail.com"
+            "email": "stephane.rathgber+odtbundle@gmail.com"
         }
     ],
     "keywords": ["odt", "symfony2", "bundle"],
@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": "~2.1",
-        "james2001/odtphp": "dev-master"
+        "cybermonde/odtphp": "dev-master"
     },
     "require-dev": {
         "phpunit/PHPUnit": "3.7.*",
